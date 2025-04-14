@@ -1,4 +1,4 @@
-# Análisis de Tiendas
+# Análisis de Tiendas (Challenge de Alura Latam)
 
 Este proyecto realiza un análisis comparativo entre 4 tiendas a través de indicadores de rendimiento como datos de ventas, categorías, calificaciones, productos más y menos vendidos y costos de envío. El objetivo es determinar cuál de las tiendas presenta el menor desempeño global, facilitando la toma de decisiones para futuras reinversiones comerciales.
 
@@ -10,6 +10,7 @@ El proyecto se centra en la extracción y análisis de datos proporcionados en 4
 
 ### Requisitos
 
+- Cuenta en **Google Colab** para ejecutar el archivo AluraStoreLatam.ipynb
 - Python 3.11.12 o superior
 - Pandas (instalar con `pip install pandas`)
 - Matplotlib (instalar con `pip install matplotlib`)
